@@ -1,0 +1,11 @@
+git checkout master
+git checkout -b solarcells
+
+a = 1
+b = 4
+c = a + b
+
+git add .
+git commit -m 'testing stuff'
+
+git push
